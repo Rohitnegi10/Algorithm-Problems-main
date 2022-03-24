@@ -8,7 +8,7 @@
 
   
 * iterate over for Loop
-  - If Maj == nums --> then increment count
-  - else --> decrement  ***count*** 
-            <br/>&nbsp;&nbsp;&nbsp;&nbsp;Also if count == -1  then --> maj = currentElement & count = 1
-* return maj
+  - If `maj` == nums --> then increment count
+  - else --> decrement  ***`count`*** 
+            <br/>&nbsp;&nbsp;&nbsp;&nbsp;Also if `count` == -1  then --> `maj` = currentElement & `count` = 1
+* return ***maj***
